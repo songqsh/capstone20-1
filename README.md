@@ -1,1 +1,1 @@
-# capstone20-wenhaoqiu
+# Capstone: reinforcement learning on financial mathematics
