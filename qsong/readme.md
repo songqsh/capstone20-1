@@ -1,1 +1,1 @@
-- [Assignments](assignements.ipynb)
+- [Assignments](assignments.ipynb)
