@@ -4,4 +4,4 @@
 ## Some ideals
 - My ideal [-pdf](wenhao/doc/problem.pdf)
 ## Debug
-- Debug [-py](wenhao/debug.py) [-ipynb](wenhao/debug.ipynb)
+- Debug(line 83 and 87) [-py](wenhao/debug.py) [-ipynb](wenhao/debug.ipynb)
