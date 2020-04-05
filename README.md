@@ -5,4 +5,5 @@
 - Debug(line 83 and 87) [-py](wenhao/debug.py) [-ipynb](wenhao/debug.ipynb)
 ## 2 dimension results
 - Result [-ipynb](wenhao/HJB_nn_2d.ipynb)
-- Paramaters
+- Paramaters [-t7](wenhao/2D_HJB2.t7)
+- Loss [-png](wenhao/Losss2.png)
