@@ -1,0 +1,21 @@
+compute-0-03
+>>>>>>>>>>begin check solver_nn<<<<<<<<<
+Sequential(
+  (0): Linear(in_features=2, out_features=18, bias=True)
+  (1): ReLU()
+  (2): Linear(in_features=18, out_features=18, bias=True)
+  (3): ReLU()
+  (4): Linear(in_features=18, out_features=1, bias=True)
+)
+Epoch 150, Loss: 61.49810791015625
+Epoch 300, Loss: 58.3559455871582
+Epoch 450, Loss: 67.96969604492188
+Epoch 600, Loss: 27.335493087768555
+Epoch 750, Loss: 25.021568298339844
+Epoch 900, Loss: 23.729923248291016
+Epoch 1050, Loss: 23.033523559570312
+Epoch 1200, Loss: 22.876449584960938
+Epoch 1350, Loss: 22.735023498535156
+Epoch 1500, Loss: 22.57564353942871
+>>>>>> L2 error is 0.09848430808884652
+>>>>>> time elapsed is: 61151.84376692772
