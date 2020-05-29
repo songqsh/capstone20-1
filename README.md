@@ -7,4 +7,4 @@
 - Result [-ipynb](wenhao/HJB_nn_2d.ipynb)
 - Predict result [-png](wenhao/2dHJB2.png)
 - Paramaters [-t7](wenhao/2D_HJB2.t7)
-- Loss [-png](wenhao/losss2.png)
+- Loss [-png](wenhao/loss2.png)
